@@ -1,0 +1,1 @@
+json.partial! @bitcoin, partial: 'bitcoin', as: :bitcoin
